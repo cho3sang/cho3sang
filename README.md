@@ -10,10 +10,11 @@
 A Chrome extension designed to block distracting websites and enhance productivity.
 
 ### 🧠 [Skibidi.AI](https://github.com/Nayyu23/Skibidai-translator)
-A lingo/slang translator bridging generational communication gaps.
+A lingo/slang translator bridging generational communication gaps — powered by React and Three.js, inspired by Gen Alpha's meme culture.
 
 ### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI) *(WIP)*
 A Duolingo-inspired app aimed at preserving and teaching the Tibetan language.
+
 
 ---
 
