@@ -9,12 +9,12 @@
 ### 🔗 [Focus-Extension](https://github.com/cho3sang/Focus-Extension)
 A Chrome extension designed to block distracting websites and enhance productivity.
 
-### 🧠 [Skibidi.AI](https://github.com/Nayyu23/Skibidai-translator)
-A lingo/slang translator bridging generational communication gaps — powered by React and Three.js, inspired by Gen Alpha's meme culture.
+### 🧠 [Skibidi.AI](https://github.com/Nayyu23/Skibidai-translator)  
+A lingo/slang translator bridging generational communication gaps — powered by React and Three.js, inspired by Gen Alpha's meme culture.  
+🔗 [Submission + Video Demo (Ignition Hacks 2024)](https://devpost.com/software/skibid-ai)
 
-### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI) *(WIP)*
+### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI) *(WIP)*  
 A Duolingo-inspired app aimed at preserving and teaching the Tibetan language.
-
 
 ---
 
@@ -30,4 +30,8 @@ A Duolingo-inspired app aimed at preserving and teaching the Tibetan language.
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzinchoesang/)
-[![GitHub](https://img)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cho3sang)
+
+---
+
+> “The limits of my language mean the limits of my world.” – Ludwig Wittgenstein
