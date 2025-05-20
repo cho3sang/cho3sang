@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Tenzin Choesang
 
-<!--
-**cho3sang/cho3sang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** | 🛠️ **Developer & Creator** | 🌐 **Language Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔗 [Focus-Extension](https://github.com/cho3sang/Focus-Extension)
+A Chrome extension designed to block distracting websites and enhance productivity.
+
+### 🧠 [Skibidi.AI](https://github.com/cho3sang/Skibidi.AI)
+A lingo/slang translator bridging generational communication gaps.
+
+### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI) *(WIP)*
+A Duolingo-inspired app aimed at preserving and teaching the Tibetan language.
+
+---
+
+## 🧠 Interests
+
+- Web & extension development (JavaScript, Tauri, React)
+- Community tech tools
+- Language & communication tech
+- Mental clarity tools (focus/productivity apps)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenzinchoesang/)
+[![GitHub](https://img)]()
