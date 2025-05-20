@@ -9,7 +9,7 @@
 ### 🔗 [Focus-Extension](https://github.com/cho3sang/Focus-Extension)
 A Chrome extension designed to block distracting websites and enhance productivity.
 
-### 🧠 [Skibidi.AI](https://github.com/cho3sang/Skibidi.AI)
+### 🧠 [Skibidi.AI](https://github.com/Nayyu23/Skibidai-translator)
 A lingo/slang translator bridging generational communication gaps.
 
 ### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI) *(WIP)*
