@@ -26,9 +26,6 @@ A full-stack dividend income tracker that helps users estimate annual dividend e
 ### 🔗 [Focus-Extension](https://github.com/cho3sang/Focus-Extension)
 A Chrome extension that blocks distracting websites to help users stay focused during study and work sessions.
 
-### 🕊️ [Tibet.AI](https://github.com/cho3sang/Tibet.AI)
-A Duolingo-inspired app aimed at preserving and teaching the Tibetan language through interactive learning.
-
 ### 🧠 [Skibidi.AI](https://github.com/Nayyu23/Skibidai-translator)
 A slang and lingo translator built with **React** and **Three.js** to bridge generational communication gaps.  
 [Submission + Demo](https://devpost.com/software/skibid-ai)
